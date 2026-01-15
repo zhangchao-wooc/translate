@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ahooks": "^3.9.6",
     "axios": "^1.13.2",
     "rc-field-form": "^2.7.1",
     "react": "^19.2.0",

@@ -1,0 +1,22 @@
+export const LanguageList = [
+    { label: '英文（美国）', value: 'en_US' },
+    { label: '德文（德国）', value: 'de_DE' },
+    { label: '西班牙文（西班牙）', value: 'es_ES' },
+    { label: '中文（简体）', value: 'zh_CN' },
+    { label: '丹麦文（丹麦）', value: 'da_DK' },
+    { label: '法文（法国）', value: 'fr_FR' },
+    { label: '意大利文（意大利）', value: 'it_IT' },
+    { label: '日文（日本）', value: 'ja_JP' },
+    { label: '韩文（韩国）', value: 'ko_KR' },
+    { label: '俄文（俄罗斯）', value: 'ru_RU' },
+    { label: '捷克文（捷克共和国）', value: 'cs_CZ' },
+    { label: '荷兰文（荷兰）', value: 'nl_NL' },
+    { label: '乌克兰文（乌克兰）', value: 'uk_UA' },
+    { label: '瑞典文（瑞典）', value: 'sv_SE' },
+    { label: '匈牙利文（匈牙利）', value: 'hu_HU' },
+    { label: '罗马尼亚文（罗马尼亚）', value: 'ro_RO' },
+    { label: '克罗地亚文（克罗地亚）', value: 'hr_HR' },
+    { label: '保加利亚文（保加利亚）', value: 'bg_BG' },
+    { label: '芬兰文（芬兰）', value: 'fi_FI' },
+    { label: '斯洛伐克文（斯洛伐克）', value: 'sk_SK' }
+]

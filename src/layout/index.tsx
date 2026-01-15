@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router';
 import defaultProps from './_defaultProps.tsx';
 // import logoImage from '../assets/logo.png';
 
-const Layout = (props: { children: ReactElement}) => {
+const Layout = (props: { children: ReactElement | null}) => {
   const [pathname, setPathname] = useState('/list/sub-page/sub-sub-page1');
   const navigate = useNavigate();
 
